@@ -6,15 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Nugasin Automation</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <p>Ini salah satu landing page dari website nugasin.com. Nugasin.com sendiri merupakan salah satu web freelance online terbesar di Indonesia.</p>
+        <a href="https://nugasin.hashnode.dev/programmer-an-increasingly-interesting-profession">Jasa Sebar Kuesioner Terpercaya di Indonesia</a>
       </main>
 
       <Footer />
